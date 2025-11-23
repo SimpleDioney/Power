@@ -1,0 +1,24 @@
+{
+  "557999076521@s.whatsapp.net": {
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 155979670,
+    "ganhosTotais": 0,
+    "caixa": 0,
+    "caixaBloqueado": 0,
+    "pixKeys": [],
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {}
+  },
+  "557991354106@s.whatsapp.net": {
+    "status": "on",
+    "onlineSince": 1763756921806,
+    "totalOnlineTime": 455407836,
+    "ganhosTotais": 0,
+    "caixa": 0,
+    "caixaBloqueado": 0,
+    "pixKeys": [],
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {}
+  }
+}

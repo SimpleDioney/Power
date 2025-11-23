@@ -1,0 +1,126 @@
+{
+  "5514997173245": {
+    "vendas": 415,
+    "ganhosTotais": 4554,
+    "caixa": 233,
+    "pixKeys": [
+      {
+        "alias": "CPF",
+        "key": "45814328800"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {
+      "novosClientes": true,
+      "clientesDeVolta": true,
+      "adminsOnlineOffline": true,
+      "novasVerificacoes": true
+    },
+    "monthlyEarnings": {
+      "2025-11": 8
+    },
+    "monthlyWithdrawals": {}
+  },
+  "557991511125": {
+    "vendas": 242,
+    "ganhosTotais": 2099,
+    "caixa": 0,
+    "pixKeys": [
+      {
+        "alias": "79991511125",
+        "key": "79991511125"
+      },
+      {
+        "alias": "Pedro José",
+        "key": "79991511125"
+      }
+    ],
+    "notificacoes": true,
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {},
+    "notificacoes_config": {}
+  },
+  "557999076521": {
+    "vendas": 3,
+    "ganhosTotais": 74,
+    "caixa": 21,
+    "pixKeys": [
+      {
+        "alias": "teste",
+        "key": "79999076521"
+      }
+    ],
+    "notificacoes": false,
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {},
+    "notificacoes_config": {}
+  },
+  "557991592322": {
+    "vendas": 140,
+    "ganhosTotais": 1521,
+    "caixa": 35,
+    "pixKeys": [
+      {
+        "alias": "Pix email Martins",
+        "key": "baielsantana@gmail.com"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {}
+  },
+  "5511963568253": {
+    "vendas": 122,
+    "ganhosTotais": 1297,
+    "caixa": 35,
+    "pixKeys": [
+      {
+        "alias": "Pix Itaú Celular",
+        "key": "+5511963568253"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {
+      "2025-11": 29
+    },
+    "monthlyWithdrawals": {
+      "2025-11": 79
+    }
+  },
+  "5519992557467": {
+    "vendas": 57,
+    "ganhosTotais": 584,
+    "caixa": 33,
+    "pixKeys": [
+      {
+        "alias": "Bradesco",
+        "key": "+5519992557467"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {
+      "2025-11": 126
+    }
+  },
+  "557991354106": {
+    "vendas": 0,
+    "ganhosTotais": 172.5,
+    "caixa": 171.25,
+    "pixKeys": [
+      {
+        "alias": "067.441.345-82",
+        "key": "Renato"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {
+      "2025-11": 55
+    },
+    "monthlyWithdrawals": {}
+  }
+}

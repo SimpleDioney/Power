@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1762264118948",
+    "precoVenda": 149.99,
+    "precoAndroid": 199,
+    "precoPc": 78,
+    "precoIos": 67,
+    "criadoEm": 1762264118948
+  },
+  {
+    "id": "1762280872754",
+    "precoVenda": 23.99,
+    "precoAndroid": 30.79,
+    "precoPc": 38.95,
+    "precoIos": 49.9,
+    "criadoEm": 1762280872754
+  },
+  {
+    "id": "1762280974196",
+    "precoVenda": 52.99,
+    "precoAndroid": 70.49,
+    "precoPc": 79.95,
+    "precoIos": 99.9,
+    "criadoEm": 1762280974196
+  },
+  {
+    "id": "1762436642545",
+    "precoVenda": 19.99,
+    "precoAndroid": 17.59,
+    "precoPc": 19.95,
+    "precoIos": 24.9,
+    "criadoEm": 1762436642545
+  },
+  {
+    "id": "1762436877152",
+    "precoVenda": 39.99,
+    "precoAndroid": 52.89,
+    "precoPc": 59.95,
+    "precoIos": 79.9,
+    "criadoEm": 1762436877152
+  },
+  {
+    "id": "1762526743844",
+    "precoVenda": 19.99,
+    "precoAndroid": 26.39,
+    "precoPc": 29.95,
+    "precoIos": 39.9,
+    "criadoEm": 1762526743844
+  },
+  {
+    "id": "1762527065485",
+    "precoVenda": 72.99,
+    "precoAndroid": 96.99,
+    "precoPc": 99.95,
+    "precoIos": 149.9,
+    "criadoEm": 1762527065485
+  },
+  {
+    "id": "1762527219578",
+    "precoVenda": 82.99,
+    "precoAndroid": 110.29,
+    "precoPc": 129.95,
+    "precoIos": 149.9,
+    "criadoEm": 1762527219578
+  },
+  {
+    "id": "1762527342097",
+    "precoVenda": 115.99,
+    "precoAndroid": 154.39,
+    "precoPc": 199.95,
+    "precoIos": 229.9,
+    "criadoEm": 1762527342097
+  },
+  {
+    "id": "1762914929107",
+    "precoVenda": 33.99,
+    "precoAndroid": 44.09,
+    "precoPc": 49.95,
+    "precoIos": 59.9,
+    "criadoEm": 1762914929107
+  },
+  {
+    "id": "1763033213001",
+    "precoVenda": 99.99,
+    "precoAndroid": 132.29,
+    "precoPc": 149.95,
+    "precoIos": 199.9,
+    "criadoEm": 1763033213001
+  },
+  {
+    "id": "1763033423244",
+    "precoVenda": 297.99,
+    "precoAndroid": 396.99,
+    "precoPc": 499.95,
+    "precoIos": 599.9,
+    "criadoEm": 1763033423244
+  },
+  {
+    "id": "1763033578572",
+    "precoVenda": 66.99,
+    "precoAndroid": 88.19,
+    "precoPc": 99.95,
+    "precoIos": 129.9,
+    "criadoEm": 1763033578572
+  },
+  {
+    "id": "1763033724789",
+    "precoVenda": 198.99,
+    "precoAndroid": 264.99,
+    "precoPc": 299.95,
+    "precoIos": 399.9,
+    "criadoEm": 1763033724789
+  },
+  {
+    "id": "1763033855875",
+    "precoVenda": 26.99,
+    "precoAndroid": 35.29,
+    "precoPc": 38.95,
+    "precoIos": 49.9,
+    "criadoEm": 1763033855875
+  },
+  {
+    "id": "1763468914896",
+    "precoVenda": 49.99,
+    "precoAndroid": 66.09,
+    "precoPc": 79.95,
+    "precoIos": 99.9,
+    "criadoEm": 1763468914896
+  },
+  {
+    "id": "1763469297719",
+    "precoVenda": 397.99,
+    "precoAndroid": 529.39,
+    "precoPc": 599.95,
+    "precoIos": 799.9,
+    "criadoEm": 1763469297719
+  },
+  {
+    "id": "1763647119862",
+    "precoVenda": 47.99,
+    "precoAndroid": 94.9,
+    "precoPc": 62.45,
+    "precoIos": 99.9,
+    "criadoEm": 1763647119862
+  }
+]

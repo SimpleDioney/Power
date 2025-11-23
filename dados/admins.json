@@ -1,0 +1,121 @@
+{
+  "5511989099902@s.whatsapp.net": {
+    "atendimentos": 49,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 591.25,
+    "caixa": 0,
+    "caixaBloqueado": 591.25,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": false
+    },
+    "monthlyEarnings": {
+      "2025-11": 427
+    },
+    "monthlyWithdrawals": {}
+  },
+  "554391964950@s.whatsapp.net": {
+    "atendimentos": 0,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 338.75,
+    "caixa": 0,
+    "caixaBloqueado": 338.75,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": false,
+      "suporte": false,
+      "mensagemCompradores": false,
+      "saques": false,
+      "novosPedidos": false,
+      "novosProdutos": false,
+      "atendimentoIniciado": false,
+      "compraFinalizada": false,
+      "verificacaoConta": false
+    },
+    "monthlyEarnings": {
+      "2025-11": 244
+    },
+    "monthlyWithdrawals": {}
+  },
+  "558892513320@s.whatsapp.net": {
+    "atendimentos": 447,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 359.25,
+    "caixa": 2,
+    "caixaBloqueado": 357.25,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": true
+    },
+    "monthlyEarnings": {
+      "2025-11": 264.75
+    },
+    "monthlyWithdrawals": {}
+  },
+  "557999076521@s.whatsapp.net": {
+    "atendimentos": 0,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 0,
+    "caixa": 0,
+    "caixaBloqueado": 0,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": false
+    },
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {}
+  },
+  "undefined": {
+    "atendimentos": 0,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 0,
+    "caixa": 0,
+    "caixaBloqueado": 0,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": false
+    }
+  }
+}

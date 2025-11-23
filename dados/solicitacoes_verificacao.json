@@ -1,0 +1,44 @@
+[
+  {
+    "userJid": "553284908480@s.whatsapp.net",
+    "accountIndex": 2,
+    "timestamp": "2025-08-31T09:36:08.229Z",
+    "status": "em_processamento",
+    "atendido_por": "5527997263368@s.whatsapp.net"
+  },
+  {
+    "userJid": "557999076521@s.whatsapp.net",
+    "accountIndex": 3,
+    "timestamp": "2025-09-10T01:15:42.970Z",
+    "status": "em_processamento",
+    "atendido_por": "557996705279@s.whatsapp.net"
+  },
+  {
+    "userJid": "557999076521@s.whatsapp.net",
+    "accountIndex": 4,
+    "timestamp": "2025-09-10T01:20:51.049Z",
+    "status": "em_processamento",
+    "atendido_por": "557996705279@s.whatsapp.net"
+  },
+  {
+    "userJid": "557999076521@s.whatsapp.net",
+    "accountIndex": 5,
+    "timestamp": "2025-09-10T01:30:49.521Z",
+    "status": "em_processamento",
+    "atendido_por": "557999076521@s.whatsapp.net"
+  },
+  {
+    "userJid": "555195608894@s.whatsapp.net",
+    "accountIndex": 0,
+    "timestamp": "2025-09-30T12:29:35.608Z",
+    "status": "em_atendimento",
+    "atendido_por": "557991511125@s.whatsapp.net"
+  },
+  {
+    "userJid": "558598502221@s.whatsapp.net",
+    "accountIndex": 0,
+    "timestamp": "2025-10-06T18:02:09.475Z",
+    "status": "em_atendimento",
+    "atendido_por": "5514997173245@s.whatsapp.net"
+  }
+]

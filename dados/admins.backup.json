@@ -1,0 +1,77 @@
+{
+  "557999076521": {
+    "atendimentos": 9,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 237.75,
+    "caixa": 0,
+    "caixaBloqueado": 237.75,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": false
+    },
+    "monthlyEarnings": {
+      "2025-11": 73.5
+    },
+    "monthlyWithdrawals": {}
+  },
+  "5543991964950": {
+    "atendimentos": 0,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 136.75,
+    "caixa": 0,
+    "caixaBloqueado": 136.75,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": false,
+      "suporte": false,
+      "mensagemCompradores": false,
+      "saques": false,
+      "novosPedidos": false,
+      "novosProdutos": false,
+      "atendimentoIniciado": false,
+      "compraFinalizada": false,
+      "verificacaoConta": false
+    },
+    "monthlyEarnings": {
+      "2025-11": 42
+    },
+    "monthlyWithdrawals": {}
+  },
+  "558892513320": {
+    "atendimentos": 150,
+    "status": "off",
+    "onlineSince": null,
+    "totalOnlineTime": 0,
+    "ganhosTotais": 138.5,
+    "caixa": 2,
+    "caixaBloqueado": 136.5,
+    "pixKeys": [],
+    "notificacoes": {
+      "idcheck": true,
+      "suporte": true,
+      "mensagemCompradores": true,
+      "saques": true,
+      "novosPedidos": true,
+      "novosProdutos": true,
+      "atendimentoIniciado": true,
+      "compraFinalizada": true,
+      "verificacaoConta": true
+    },
+    "monthlyEarnings": {
+      "2025-11": 44
+    },
+    "monthlyWithdrawals": {}
+  }
+}

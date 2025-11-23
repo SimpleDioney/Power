@@ -1,0 +1,213 @@
+[
+  {
+    "id": 263115,
+    "clientJid": "558499581484@s.whatsapp.net",
+    "clientName": "Ryan",
+    "total": 0,
+    "items": [
+      {
+        "name": "Cofrinho lv2 [ 19,99 ]",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "Bom dia",
+    "facebookPassword": "Satorugojo",
+    "dragonCityId": "3494464848359900756",
+    "timestamp": "2025-10-03T17:16:05.014Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 437383,
+    "clientJid": "74342159376427@lid",
+    "clientName": "Gabriel",
+    "total": 66.99,
+    "items": [
+      {
+        "id": "1759423339322",
+        "name": "🌟 PASSE DIVINO PREMIUM ( COM DESCONTO )",
+        "description": "🐉 DRAGÃO ENCOURAÇADO DAS ALTURAS NOBRE\n🖼️ 12 PACOTES DE FIGURINHAS \n🟣 45 ESFERAS CURINGAS \n🍎 8.15 MILHÕES EM COMIDA\n🌟 MAIORES RARIDADES\n🏞️ HABITATS DE ESFERAS\n💎 135 JOIAS",
+        "price": 66.99,
+        "basePrices": {
+          "google": 88.19,
+          "microsoft": 99.95,
+          "ios": 129.9
+        },
+        "image": "produtos/ofertas/🎟️ PASSES/🌟 PASSE DIVINO/⬇️ COM DESCONTO/___PASSE_DIVINO_PREMIUM___COM_DESCONTO___1759428132196.jpeg",
+        "createdAt": 1759423339322,
+        "expiryTimestamp": 1760600539322,
+        "isVariable": false
+      }
+    ],
+    "facebookLogin": "thyagoa975@gmail.com",
+    "facebookPassword": "arali123",
+    "dragonCityId": "314316427303610",
+    "timestamp": "2025-10-12T01:01:41.029Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": 129029635113,
+    "paymentMethod": "pix",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 410894,
+    "clientJid": "557187173741@s.whatsapp.net",
+    "clientName": "Ronald",
+    "total": 0,
+    "items": [
+      {
+        "name": "🌟 PASSE DIVINO - PREMIUM (COM DESCONTO)",
+        "price": 0,
+        "quantity": 1
+      },
+      {
+        "name": "🛡 PASSE DE MAESTRIA (DOURADA)",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "71987173741",
+    "facebookPassword": "ronald220706",
+    "dragonCityId": "3580322856492245968",
+    "timestamp": "2025-10-28T13:41:41.750Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 379906,
+    "clientJid": "5511970733080@s.whatsapp.net",
+    "clientName": "Henrique",
+    "total": 33.99,
+    "items": [
+      {
+        "id": "1760625544293",
+        "name": "🌟 PASSE DIVINO - PREMIUM (SEM DESCONTO)",
+        "description": "🐉 DRAGÃO ENCOURAÇADO CRIOGÊNICA\n🖼️ 12 PACOTES DE FIGURINHAS \n🔮 140 ESFERAS CURINGAS \n🍎 8.15 MILHÕES EM COMIDA\n🌟 MAIORES RARIDADES\n🏞️ HABITATS DE ESFERAS\n💎 120 JOIAS",
+        "price": 33.99,
+        "basePrices": {
+          "google": 44.09,
+          "microsoft": 49.95,
+          "ios": 59.9
+        },
+        "image": "produtos/ofertas/🎟️ PASSES/🌟 PASSE DIVINO/⬆️ SEM DESCONTO/___PASSE_DIVINO___PREMIUM_1760625524683.jpeg",
+        "createdAt": 1760625544293,
+        "expiryTimestamp": 1763023144293,
+        "isVariable": false
+      }
+    ],
+    "facebookLogin": "henriquekunieda.hk@gmail.com",
+    "facebookPassword": "henrique1010",
+    "dragonCityId": "100007663993510",
+    "timestamp": "2025-11-08T18:37:30.081Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": 133044181864,
+    "paymentMethod": "pix",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 746215,
+    "clientJid": "556684168508@s.whatsapp.net",
+    "clientName": "Leonardo",
+    "total": 26.99,
+    "items": [
+      {
+        "id": "1760625776969",
+        "name": "🌟 PASSE DIVINO - PREMIUM (COM DESCONTO)",
+        "description": "🐉 DRAGÃO ENCOURAÇADO CRIOGÊNICA\n🖼️ 12 PACOTES DE FIGURINHAS \n🔮 140 ESFERAS CURINGAS \n🍎 8.15 MILHÕES EM COMIDA\n🌟 MAIORES RARIDADES\n🏞️ HABITATS DE ESFERAS\n💎 120 JOIAS",
+        "price": 26.99,
+        "basePrices": {
+          "google": 35.29,
+          "microsoft": 38.95,
+          "ios": 49.9
+        },
+        "image": "produtos/ofertas/🎟️ PASSES/🌟 PASSE DIVINO/⬇️ COM DESCONTO/___PASSE_DIVINO___PREMIUM_1760625761729.jpeg",
+        "createdAt": 1760625776969,
+        "expiryTimestamp": 1763023376969,
+        "isVariable": false
+      }
+    ],
+    "facebookLogin": "Gabrielciardulo2330@gmail.com",
+    "facebookPassword": "z100rr",
+    "dragonCityId": "3223243115688580630",
+    "timestamp": "2025-11-08T21:54:20.678Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": 132466458923,
+    "paymentMethod": "pix",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 791068,
+    "clientJid": "5511915374525@s.whatsapp.net",
+    "clientName": "Gustavo",
+    "total": 0,
+    "items": [
+      {
+        "name": "Figurinha brilhante 5 estrelas",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "cristinajane11@yahoo.com",
+    "facebookPassword": "Emide.00",
+    "dragonCityId": "Emide🤟🏾",
+    "timestamp": "2025-11-11T16:54:46.660Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 383405,
+    "clientJid": "556496012181@s.whatsapp.net",
+    "clientName": "Hugo Pedro",
+    "total": 0,
+    "items": [
+      {
+        "name": "🌟 PASSE DIVINO - PREMIUM COM DESCONTO",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "Hugop0cpa@icloud.com",
+    "facebookPassword": "Rizzardi10.",
+    "dragonCityId": "3543492207763802743",
+    "timestamp": "2025-11-12T21:38:21.960Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "unverified"
+  },
+  {
+    "id": 783158,
+    "clientJid": "555180623111@s.whatsapp.net",
+    "clientName": "Edemilson",
+    "total": 0,
+    "items": [
+      {
+        "name": "🌳 PASSE ARVORE DA VIDA - PLATINA",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "canaldoedemilson@gmail.com",
+    "facebookPassword": "Edemilson1@@@",
+    "dragonCityId": "100004008278853",
+    "timestamp": "2025-11-20T23:18:13.236Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "unverified"
+  }
+]

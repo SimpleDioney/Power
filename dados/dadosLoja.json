@@ -1,0 +1,99 @@
+{
+  "vendasRealizadas": 1471,
+  "faturamentoTotal": 70320.21450415009,
+  "descontoAutomaticoOferta": 50,
+  "cartoes": [
+    {
+      "id": "card1763754776904",
+      "nome": "Roberto",
+      "sobrenome": "Erick Assunção",
+      "numero": "5502093059484722",
+      "nomeTitular": "Roberto Erick Assunção",
+      "cvv": "761",
+      "dataValidade": "11/33",
+      "endereco": "Rua Lidia Modesto dos Santos, 830",
+      "cidade": "Palhoça",
+      "estado": "SC",
+      "cep": "88138778",
+      "tipo": "nubank",
+      "responsavel": "557991354106@s.whatsapp.net"
+    },
+    {
+      "id": "card1763754832505",
+      "nome": "Arthur",
+      "sobrenome": "Bernardo Porto",
+      "numero": "5502092951697084",
+      "nomeTitular": "Arthur Bernardo Porto",
+      "cvv": "642",
+      "dataValidade": "11/33",
+      "endereco": "Setor SCIA Quadra 10 Conjunto 1, 458",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "71250610",
+      "tipo": "nubank",
+      "responsavel": "557991354106@s.whatsapp.net"
+    },
+    {
+      "id": "card1763755438557",
+      "nome": "Otávio",
+      "sobrenome": "Fernando Enrico Baptista",
+      "numero": "5502091549907781",
+      "nomeTitular": "Otávio Fernando Enrico Baptista",
+      "cvv": "543",
+      "dataValidade": "11/33",
+      "endereco": "Passagem Amélio Tavares, 218",
+      "cidade": "Ananindeua",
+      "estado": "PA",
+      "cep": "67125059",
+      "tipo": "nubank",
+      "responsavel": "557991354106@s.whatsapp.net"
+    },
+    {
+      "id": "card1763755755194",
+      "nome": "Tomás",
+      "sobrenome": "Francisco Ferreira",
+      "numero": "5502097483413603",
+      "nomeTitular": "Tomás Francisco Ferreira",
+      "cvv": "916",
+      "dataValidade": "11/33",
+      "endereco": "Avenida Pau Brasil Condomínio 2 Bloco 14, 610",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "60748074",
+      "tipo": "nubank",
+      "responsavel": "557991354106@s.whatsapp.net"
+    }
+  ],
+  "idChecksExpirados": 0,
+  "valorPerdido": null,
+  "contasVerificadas": 546,
+  "comissoes": {
+    "porVerificacao": 1,
+    "porCompra": 8,
+    "admin": 1
+  },
+  "ofertasChannelJid": "0029Vas5FNjIiRp0p41KvZ3h",
+  "taxas": {
+    "pix": 0.99,
+    "cartao": {
+      "avista": {
+        "fixa": 0.49,
+        "percentual": 1.99
+      },
+      "parcelado": {
+        "2-6": {
+          "fixa": 0.49,
+          "percentual": 2.49
+        },
+        "7-12": {
+          "fixa": 0.49,
+          "percentual": 2.99
+        }
+      }
+    }
+  },
+  "chavePix": "bd4856a4-ccea-4cff-9aeb-846cbf4ecbc5",
+  "imagemMenu": "media/menu.jpeg",
+  "compraMinima": 24.99,
+  "manualMaintenanceMode": true
+}

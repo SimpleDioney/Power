@@ -1,0 +1,130 @@
+{
+  "5514997173245@s.whatsapp.net": {
+    "vendas": 474,
+    "ganhosTotais": 5095,
+    "caixa": 0,
+    "pixKeys": [
+      {
+        "alias": "CPF",
+        "key": "45814328800"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {
+      "novosClientes": true,
+      "clientesDeVolta": true,
+      "adminsOnlineOffline": true,
+      "novasVerificacoes": true
+    },
+    "monthlyEarnings": {
+      "2025-11": 8
+    },
+    "monthlyWithdrawals": {
+      "2025-11": 774
+    }
+  },
+  "557991511125@s.whatsapp.net": {
+    "vendas": 242,
+    "ganhosTotais": 2099,
+    "caixa": 0,
+    "pixKeys": [
+      {
+        "alias": "79991511125",
+        "key": "79991511125"
+      },
+      {
+        "alias": "Pedro José",
+        "key": "79991511125"
+      }
+    ],
+    "notificacoes": true,
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {},
+    "notificacoes_config": {}
+  },
+  "557999076521@s.whatsapp.net": {
+    "vendas": 3,
+    "ganhosTotais": 74,
+    "caixa": 21,
+    "pixKeys": [
+      {
+        "alias": "teste",
+        "key": "79999076521"
+      }
+    ],
+    "notificacoes": false,
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {},
+    "notificacoes_config": {}
+  },
+  "557991592322@s.whatsapp.net": {
+    "vendas": 140,
+    "ganhosTotais": 1521,
+    "caixa": 35,
+    "pixKeys": [
+      {
+        "alias": "Pix email Martins",
+        "key": "baielsantana@gmail.com"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {},
+    "monthlyWithdrawals": {}
+  },
+  "5511963568253@s.whatsapp.net": {
+    "vendas": 186,
+    "ganhosTotais": 1971.53,
+    "caixa": 98,
+    "pixKeys": [
+      {
+        "alias": "Pix Itaú Celular",
+        "key": "+5511963568253"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {
+      "2025-11": 80.53
+    },
+    "monthlyWithdrawals": {
+      "2025-11": 690.53
+    }
+  },
+  "5519992557467@s.whatsapp.net": {
+    "vendas": 109,
+    "ganhosTotais": 1067,
+    "caixa": 221,
+    "pixKeys": [
+      {
+        "alias": "Bradesco",
+        "key": "+5519992557467"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {
+      "2025-11": -16
+    },
+    "monthlyWithdrawals": {
+      "2025-11": 421
+    }
+  },
+  "557991354106@s.whatsapp.net": {
+    "vendas": 0,
+    "ganhosTotais": 422.5,
+    "caixa": 421.25,
+    "pixKeys": [
+      {
+        "alias": "067.441.345-82",
+        "key": "Renato"
+      }
+    ],
+    "notificacoes": true,
+    "notificacoes_config": {},
+    "monthlyEarnings": {
+      "2025-11": 305
+    },
+    "monthlyWithdrawals": {}
+  }
+}

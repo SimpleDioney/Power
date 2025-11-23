@@ -1,0 +1,56 @@
+[
+  {
+    "id": 171162,
+    "clientJid": "554788068453@s.whatsapp.net",
+    "clientName": "Eduardo",
+    "total": 0,
+    "items": [
+      {
+        "name": "🖼️ 20 FIGURINHAS DESTACADAS",
+        "price": 0,
+        "quantity": 1
+      },
+      {
+        "name": "🌳 PASSE ARVORE DA VIDA - PLATINA",
+        "price": 0,
+        "quantity": 1
+      },
+      {
+        "name": "💎 900 JÓIAS",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "eduardoboni2016@gmail.com",
+    "facebookPassword": "trilheiroloko",
+    "dragonCityId": "3169166864161177217",
+    "timestamp": "2025-11-21T22:59:11.221Z",
+    "status": "em_atendimento",
+    "atendido_por": "5511963568253@s.whatsapp.net",
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "verified"
+  },
+  {
+    "id": 553139,
+    "clientJid": "5521997729103@s.whatsapp.net",
+    "clientName": "Willian",
+    "total": 0,
+    "items": [
+      {
+        "name": "🏷 PASSE DE BLACK FRIDAY DOURADO",
+        "price": 0,
+        "quantity": 1
+      }
+    ],
+    "facebookLogin": "Williannmartins13@gmail.com",
+    "facebookPassword": "Wi@5550129",
+    "dragonCityId": "100003092881305",
+    "timestamp": "2025-11-21T23:08:35.085Z",
+    "status": "pendente",
+    "atendido_por": null,
+    "paymentId": null,
+    "paymentMethod": "manual_order",
+    "sourceQueue": "verified"
+  }
+]
