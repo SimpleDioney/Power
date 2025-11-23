@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.6",
+    "axios": "^1.13.2",
+    "express": "^5.1.0"
+  }
+}
